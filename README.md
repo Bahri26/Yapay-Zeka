@@ -1,2 +1,2 @@
 # Yapay-Zeka
-Yapay Zeka alanında yaptığımı çalışmalar
+Yapay Zeka alanında yaptığım çalışmalar
